@@ -1,0 +1,12 @@
+streamlit
+datetime
+pandas
+yfinance
+matplotlib.pyplot
+seaborn
+numpy
+fbprophet
+fbprophet.plot
+plotly
+cufflinks
+
